@@ -12,3 +12,14 @@ Postman-Token: 4e365072-8632-2340-fdd5-061c37af7889
   "destination": "https://6e51aed6.ngrok.io/webhooks",
   "is_active": true
 }
+{
+    "id": 20378162,
+    "client_id": "9lctgsj6xdlcl1euq21e2emnj4ekcc0",
+    "store_hash": "z1utfckjzy",
+    "scope": "store/product/updated",
+    "destination": "https://6e51aed6.ngrok.io/webhooks",
+    "headers": null,
+    "is_active": true,
+    "created_at": 1586127353,
+    "updated_at": 1586127353
+}
