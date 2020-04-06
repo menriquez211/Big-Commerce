@@ -1,0 +1,91 @@
+PUT /stores/z1utfckjzy/v3/catalog/products/111 HTTP/1.1
+Host: api.bigcommerce.com
+X-Auth-Client: q2v1nls83fprdhx44z3du8qk6a8tlkz
+X-Auth-Token: naj29v7bt25p539n3dkrvw2zxyxvspe
+Accept: application/json
+Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: b174ef10-59f1-0c1e-9b81-378c472f0891
+
+{
+  "price": 12.99
+}
+
+    "data": {
+        "id": 111,
+        "name": "Xaviers",
+        "type": "physical",
+        "sku": "SM13",
+        "description": "<p>yay!</p>",
+        "weight": 1,
+        "width": 0,
+        "depth": 0,
+        "height": 0,
+        "price": 12.99,
+        "cost_price": 0,
+        "retail_price": 0,
+        "sale_price": 0,
+        "map_price": 0,
+        "tax_class_id": 0,
+        "product_tax_code": "",
+        "calculated_price": 12.99,
+        "categories": [
+            20,
+            23
+        ],
+        "brand_id": 0,
+        "option_set_id": 17,
+        "option_set_display": "right",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "inventory_tracking": "none",
+        "reviews_rating_sum": 0,
+        "reviews_count": 0,
+        "total_sold": 0,
+        "fixed_cost_shipping_price": 0,
+        "is_free_shipping": false,
+        "is_visible": true,
+        "is_featured": false,
+        "related_products": [
+            -1
+        ],
+        "warranty": "",
+        "bin_picking_number": "0",
+        "layout_file": "product.html",
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "search_keywords": "",
+        "availability": "available",
+        "availability_description": "",
+        "gift_wrapping_options_type": "any",
+        "gift_wrapping_options_list": [],
+        "sort_order": 0,
+        "condition": "New",
+        "is_condition_shown": false,
+        "order_quantity_minimum": 0,
+        "order_quantity_maximum": 0,
+        "page_title": "",
+        "meta_keywords": [],
+        "meta_description": "",
+        "date_created": "2015-07-03T20:55:30+00:00",
+        "date_modified": "2020-04-06T00:40:28+00:00",
+        "view_count": 63,
+        "preorder_release_date": null,
+        "preorder_message": "",
+        "is_preorder_only": false,
+        "is_price_hidden": false,
+        "price_hidden_label": "",
+        "custom_url": {
+            "url": "/smith-journal-13/",
+            "is_customized": false
+        },
+        "base_variant_id": null,
+        "open_graph_type": "product",
+        "open_graph_title": "",
+        "open_graph_description": "",
+        "open_graph_use_meta_description": true,
+        "open_graph_use_product_name": true,
+        "open_graph_use_image": true
+    },
+    "meta": {}
