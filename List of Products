@@ -1,0 +1,14 @@
+POST /stores/z1utfckjzy/v2/hooks HTTP/1.1
+Host: api.bigcommerce.com
+Accept: application/json
+Content-Type: application/json
+X-Auth-Token: ejucvwcgavy1eby6v13fqpy5how13bn
+X-Auth-Client: ejucvwcgavy1eby6v13fqpy5how13bn
+Cache-Control: no-cache
+Postman-Token: 4e365072-8632-2340-fdd5-061c37af7889
+
+{
+  "scope": "store/product/updated",
+  "destination": "https://6e51aed6.ngrok.io/webhooks",
+  "is_active": true
+}
